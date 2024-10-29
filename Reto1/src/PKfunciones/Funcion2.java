@@ -14,5 +14,11 @@ public class Funcion2 {
 		}
 		return 0;
 	}
+	public static boolean esPositivo(int n1) {
+		if (n1>=0) {
+			return true;
+		}
+		return false;
+	}
 	
 }
