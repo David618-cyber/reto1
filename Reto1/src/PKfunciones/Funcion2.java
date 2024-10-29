@@ -20,5 +20,11 @@ public class Funcion2 {
 		}
 		return false;
 	}
+	public static boolean esNegativo(int n1) {
+		if (n1>=0) {
+			return true;
+		}
+		return false;
+	}
 	
 }
