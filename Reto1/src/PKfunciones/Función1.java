@@ -1,7 +1,6 @@
 package PKfunciones;
 
-public class Función1 {
-
+public class Función1 {}
 
 
 }
